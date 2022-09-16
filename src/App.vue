@@ -1,15 +1,13 @@
 <template>
   <div>
-    项目初始化
+    <h1>黑马头条</h1>
+    <router-view />
   </div>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-
+<style lang="less" scoped>
 </style>
